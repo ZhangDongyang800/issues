@@ -1,4 +1,4 @@
-# Conda 环境创建失败(Windows 路径编码专项)
+# 使用Conda创建python环境失败(找不到python对应版本？！)
 
 项目在配置开发环境时，若遇到 Python 版本或者其他开发工具的版本无法识别，通常会出现这种报错信息 `PackagesNotFoundError`，通常是由 **Windows 中文用户名** 导致的路径编码冲突引起的。
 
